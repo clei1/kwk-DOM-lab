@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background-color: #F4D7D7;
+}
+
+.header {
+    margin: 0;
+    padding: 20px;
+    height: 50vh;
+    width: 100%;
+    background-image: url("http://blog.flatironschool.com/wp-content/uploads/2015/04/karlieimage_v3.jpg");
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
+    border-bottom-color:#8D8D8D;
+    
+}
+
+#title {
+    color: white;
+    text-align: center;
+    font-size: 105px;
+    margin-top: 90px;
+    margin-bottom: auto;
+    font-family: 'Inconsolata', monospace;
+}
+
+#classpic {
+    width: 400px;
+    position: absolute;
+    left: 60%;
+    top: 65%;
+    margin-bottom: 50px
+}
+
+.textbox{
+    position: absolute;
+    left: 10%;
+    top: 75%;
+    width: 35%;
+    /*text-align: center;*/
+    font-size: 18px;
+    color: #515151;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+}
+
+#karliepic {
+position:absolute;
+width: 450px;
+height: 400px;
+left: 10%;
+top: 75%;
+}
