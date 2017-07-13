@@ -5,7 +5,7 @@ javascript to interact with our HTML elements.
 
 ### So let's get to it....
 Here's what we need: 
-1. When your mouse is over the text, the textbox should have a border, when your mouse leaves the border should disapear. 
+1. When your mouse is over the text, the textbox should have a border, when your mouse leaves, the border should disappear. 
 2. Hovering your mouse over the photo should make it round using the border-radius attribute.
 3. Clicking on the button should change the title of the page to your very own DOM pun.
 4. Clicking on the image should change it to a picture of either Karlie Kloss or your choice of interesting turtle picture.
