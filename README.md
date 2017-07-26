@@ -1,6 +1,6 @@
 # Let's DOMinate...
 Karlie needs your helping making sure her super cool 
-STL 2017 DOM appreciation website DOMinstrates how we can use 
+CHI 2017 DOM appreciation website DOMinstrates how we can use 
 javascript to interact with our HTML elements.
 
 ### So let's get to it....
