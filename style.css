@@ -19,7 +19,7 @@ body {
     color: white;
     text-align: center;
     font-size: 125px;
-    margin-top: 5%;
+    margin-top: 1%;
     margin-bottom: auto;
     font-family: 'Inconsolata', monospace;
 }
@@ -28,7 +28,7 @@ body {
     width: 35%;
     position: absolute;
     left: 60%;
-    top: 65%;
+    top: 70%;
     margin-bottom: 50px
 }
 
