@@ -18,8 +18,8 @@ body {
 #title {
     color: white;
     text-align: center;
-    font-size: 155px;
-    margin-top: 10%;
+    font-size: 125px;
+    margin-top: 1%;
     margin-bottom: auto;
     font-family: 'Inconsolata', monospace;
 }
@@ -28,7 +28,7 @@ body {
     width: 35%;
     position: absolute;
     left: 60%;
-    top: 65%;
+    top: 70%;
     margin-bottom: 50px
 }
 
@@ -38,7 +38,7 @@ body {
     top: 67%;
     width: 35%;
     /*text-align: center;*/
-    font-size: 25px;
+    font-size: 15px;
     color: #515151;
     font-family: 'Montserrat', sans-serif;
 }
